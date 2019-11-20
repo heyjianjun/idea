@@ -1,0 +1,17 @@
+<templateSet group="mySelf">
+  <template name="mso" value="Map&lt;String, Object&gt;" description="Map&lt;String, Object&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nhm" value=" new HashMap&lt;&gt;();" description="new HashMap&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psl" value="private static Logger logger = LoggerFactory.getLogger($END$.class);" description="logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -6,6 +6,10 @@
           <option name="url" value="http://host-10-1-236-214" />
           <option name="userName" value="zhoujj11@asiainfo.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.20.16.74:6060" />
+          <option name="userName" value="zhoujj3@asiainfo.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

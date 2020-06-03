@@ -1,0 +1,23 @@
+<templateSet group="user">
+  <template name="ler" value="logger.error(&quot;$className$.$methodName$&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;$END$&quot;)" description="打印日志" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lin" value="logger.info(&quot;$className$.$methodName$&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;$END$&quot;)" description="打印日志" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lwa" value="logger.warn(&quot;$className$.$methodName$&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;$END$&quot;)" description="打印日志" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

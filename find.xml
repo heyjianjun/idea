@@ -9,10 +9,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>

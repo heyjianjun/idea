@@ -8,11 +8,11 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.vue</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>

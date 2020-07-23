@@ -10,9 +10,9 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.vue</mask>
   </component>
 </application>

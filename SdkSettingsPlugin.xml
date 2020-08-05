@@ -1,0 +1,10 @@
+<application>
+  <component name="core.configuration.AppSettingsState">
+    <option name="appSetting">
+      <AppSetting>
+        <option name="scanServicesWithLibraryDefault" value="true" />
+        <option name="iconTypeScheme" value="default" />
+      </AppSetting>
+    </option>
+  </component>
+</application>

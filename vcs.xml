@@ -18,6 +18,10 @@
           <option name="url" value="http://10.1.245.77" />
           <option name="userName" value="zhoujj3@asiainfo.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://132.91.147.12:10088" />
+          <option name="userName" value="zhoujianjun" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace" />

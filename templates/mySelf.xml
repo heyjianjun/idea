@@ -9,7 +9,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="psl" value="private static Logger logger = LoggerFactory.getLogger($END$.class);" description="logger" toReformat="false" toShortenFQNames="true">
+  <template name="psl" value="private static Logger logger = LoggerFactory.getLogger(this.getClass());" description="logger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

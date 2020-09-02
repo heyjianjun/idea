@@ -3,7 +3,7 @@
     <option name="customScope" />
     <option name="defaultScopeName" />
     <option name="SEARCH_SCOPE" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -12,8 +12,8 @@
     <mask>*.yml</mask>
     <mask>*.vue</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
